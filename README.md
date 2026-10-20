@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Mohamed 👋
 
-<!--
-**ma-eltawel/ma-eltawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Odoo Developer | Python | PostgreSQL
 
-Here are some ideas to get you started:
+I'm a software developer focused on building and customizing business applications with Odoo. I enjoy solving problems, writing clean and maintainable code, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **ERP Development:** Odoo, Python
+- **Database:** PostgreSQL, SQL
+- **Web Technologies:** JavaScript, HTML, CSS, XML
+- **Tools:** Git, GitHub, Linux
+
+### 🚀 What I'm Working On
+
+- Developing and customizing Odoo modules.
+- Learning more about Odoo's ORM, security, and module architecture.
+- Improving my understanding of database design and software engineering best practices.
+
+### 📌 Featured Projects
+
+Check out my pinned repositories below to explore my work.
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/ma-eltawel
+- LinkedIn: [Add your LinkedIn profile URL here]
