@@ -24,4 +24,4 @@ Check out my pinned repositories below to explore my work.
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/ma-eltawel
-- LinkedIn: [Add your LinkedIn profile URL here]
+- LinkedIn: https://linkedin.com/in/mahmoud-eltawel-6583ba416
