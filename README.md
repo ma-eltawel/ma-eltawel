@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahmoud Mohamed
 
-### Odoo Developer | Python Developer | ERP Enthusiast
+### Odoo Developer | Python Developer
 
 I'm a Software Developer specializing in Odoo development, with a background in Python and web technologies.
 
@@ -17,7 +17,6 @@ I enjoy building business applications, customizing ERP solutions, developing Od
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [Mahmoud Mohamed](https://www.linkedin.com/in/ma-eltawel/)
-- 💻 GitHub: [ma-eltawel](https://github.com/ma-eltawel)
 
 ---
 
@@ -26,7 +25,6 @@ I enjoy building business applications, customizing ERP solutions, developing Od
 **Programming Languages**
 - Python
 - JavaScript
-- SQL
 
 **Odoo Development**
 - Odoo Framework
@@ -37,8 +35,7 @@ I enjoy building business applications, customizing ERP solutions, developing Od
 
 **Databases**
 - PostgreSQL
-- MySQL
-
+  
 **Web Technologies**
 - HTML
 - CSS
@@ -47,7 +44,6 @@ I enjoy building business applications, customizing ERP solutions, developing Od
 **Tools**
 - Git & GitHub
 - Linux
-- VS Code
 
 ---
 
@@ -65,14 +61,6 @@ I enjoy building business applications, customizing ERP solutions, developing Od
 - Python programming.
 - Database design and SQL queries.
 - Understanding software architecture and business logic.
-
----
-
-## 📂 Featured Projects
-
-Here are some of my selected projects and development work.
-
-*This section will be updated with selected Odoo modules, Python applications, and software development projects.*
 
 ---
 
